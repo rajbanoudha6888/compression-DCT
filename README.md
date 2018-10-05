@@ -15,7 +15,7 @@ The compressed image has block-artifacts which can be seen easily.
 
 One can read about DCT-image compression from : https://www.youtube.com/watch?v=sckLJpjH5p8 NPTEL IMAGE PROCESSING SERIES
 
-credits : 
+Credits : 
 1. zigzag.py has been taken from : https://github.com/amzhang1/simple-JPEG-compression
 2. https://github.com/abhishek-sehgal954/Lossy-and-lossless-image-compression-techniques
 
